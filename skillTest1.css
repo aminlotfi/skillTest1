@@ -153,6 +153,7 @@ body{
     font-size: 23pt;
     color: #ff6200;
     margin: 60px 0 0 50px;
+    text-transform: uppercase;
 }
 .name{
     width:6in;
@@ -177,7 +178,7 @@ body{
 }
 textarea{
     width: 6in;
-    height: 2in;
+    height: 1in;
     background-color: #f6f6f6;
     border: 1px solid #ededed;
     margin: 5px 0 5px 50px;
@@ -198,4 +199,37 @@ textarea{
 }
 .submit:hover{
     background-color: #be3600;
+}
+.reach{
+    float: right;
+    margin-right: 50px;
+}
+.ru{
+    font-family: Myriad Pro, sans-serif;
+    font-size: 23pt;
+    color: #ff6200;
+    margin: 60px 0 0 50px;
+    text-transform: uppercase;
+}
+.coalition{
+    font-family: Myriad Pro, sans-serif;
+    color: #595959;
+    font-size: 20px;
+    margin: 30px 0 5px 50px;
+}
+.street{
+    font-family: Myriad Pro, sans-serif;
+    color: #595959;
+    font-size: 17px;
+    list-style-type: none;
+    margin: 10px 0 5px 10px;
+}
+.num{    font-family: Myriad Pro, sans-serif;
+    color: #595959;
+    font-size: 17px;
+    list-style-type: none;
+    margin: 10px 0 5px 10px;
+}
+.img{
+    margin: 1px 0 5px 50px;
 }
