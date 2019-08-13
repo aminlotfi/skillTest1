@@ -136,3 +136,66 @@ body{
     text-align: justify;
     width: 80%;
 }
+.line{
+    float: left;
+    width: 6in;
+    margin-left: 50px;
+    height: 5px;
+    background-color: #525252;
+}
+.form{
+    float: left;
+    clear: both;
+    max-width: 6in;
+}
+.form p{
+    font-family: Myriad Pro, sans-serif;
+    font-size: 23pt;
+    color: #ff6200;
+    margin: 60px 0 0 50px;
+}
+.name{
+    width:6in;
+    height: 30px;
+    background-color: #f6f6f6;
+    border: 1px solid #ededed;
+    margin: 5px 0 10px 50px;
+}
+.phone{
+    width: 6in;
+    height: 30px;
+    background-color: #f6f6f6;
+    border: 1px solid #ededed;
+    margin: 0 0 5px 50px;
+}
+.email{
+    width: 6in;
+    height: 30px;
+    background-color: #f6f6f6;
+    border: 1px solid #ededed;
+    margin: 5px 0 5px 50px;
+}
+textarea{
+    width: 6in;
+    height: 2in;
+    background-color: #f6f6f6;
+    border: 1px solid #ededed;
+    margin: 5px 0 5px 50px;
+}
+.submit{
+    margin: 10px 0 10px 50px;
+    border: none;
+    width: 100px;
+    height: 35px;
+    font-family: Myriad Pro, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    background-color: #ff6200;
+    cursor: pointer;
+}
+.submit:hover{
+    background-color: #be3600;
+}
